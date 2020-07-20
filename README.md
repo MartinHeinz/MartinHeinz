@@ -1,6 +1,6 @@
+![Header](readme_header.png "Header")
 
-
-## About Me
+# About Me
 
 My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![alt text][1.2]][1],  or on [![alt text][3.2]][3].
 
