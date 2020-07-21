@@ -25,19 +25,19 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/github-readme-stats">
+<a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&theme=dark&hide_langs_below=4" />
 </a>
-<a href="https://github.com/MartinHeinz/github-readme-stats">
+<a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&theme=dark&line_height=27" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/MartinHeinz.github.io">
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&theme=dark" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/github-readme-stats">
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&theme=dark" />
 </a>    
 
