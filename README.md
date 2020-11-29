@@ -15,7 +15,8 @@ and this my information and notes about IT[MuryP](https://muryp.my.id)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS?style=flat&logo=CSSColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-CSS?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HTML5-HTML5?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
