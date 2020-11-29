@@ -15,6 +15,7 @@ and this my information and notes about IT[MuryP](https://muryp.my.id)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS?style=flat&logo=CSSColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -50,9 +51,9 @@ and this my information and notes about IT[MuryP](https://muryp.my.id)
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/murypstudio
+[2]: https://github.com/alifmuryp
+[3]: https://www.linkedin.com/in/alifmuryp/
 
 
 <!-- Resources -->
