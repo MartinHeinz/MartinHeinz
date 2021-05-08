@@ -1,4 +1,4 @@
-[Profil](profil.png)
+![Profil](profil.png=250x250)
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Alief Prihantoro
