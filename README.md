@@ -11,7 +11,7 @@ Hi, I'm Alief Prihantoro, in social media call me MuryP. I'm a "Front end Develo
 ## 🤙 Contact Me
 ![](https://img.shields.io/badge/+62_8382_9383_123-Call_Me!-informational?style=flat&logo=whatsapp&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 ![](https://img.shields.io/badge/alifmuryp@gmail.com-Email_Me!-informational?style=flat&logo=gmail&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
-![](https://img.shields.io/badge/alifmuryp@gmail.com-Email_Me!-informational?style=flat&logo=google-maps&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
+![](https://img.shields.io/badge/Indonesia,-Central_Java-informational?style=flat&logo=google-maps&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
 
 ## 📎 Sosial media & Links: 
 [![](https://img.shields.io/badge/alifmuryp-Follow-informational?style=flat&logo=linkedin&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://linkedin.com/in/alifmuryp)
