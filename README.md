@@ -51,11 +51,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Building GitHub Apps with Golang](https://dev.to/martinheinz/building-github-apps-with-golang-3ljo)
+- [Building GitHub Apps With Golang](https://betterprogramming.pub/building-github-apps-with-golang-43b27f3e9621?source=rss-4cbd6b36e62a------2)
+- [Profiling and Analyzing Performance of Python Programs](https://dev.to/martinheinz/profiling-and-analyzing-performance-of-python-programs-5c9c)
+- [Profiling and Analyzing Performance of Python Programs](https://towardsdatascience.com/profiling-and-analyzing-performance-of-python-programs-3bf3b41acd16?source=rss-4cbd6b36e62a------2)
+- [Improving Application Availability with Pod Readiness Gates](https://dev.to/martinheinz/improving-application-availability-with-pod-readiness-gates-29pb)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
