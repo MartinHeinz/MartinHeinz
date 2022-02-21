@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://bit.ly/3oMJ6qR)
 - [Creating Beautiful Tracebacks with Python&#39;s Exception Hooks](https://bit.ly/3IRD7IK)
 - [Building GitHub Apps with Golang](https://bit.ly/3A3B69t)
 - [Profiling and Analyzing Performance of Python Programs](https://bit.ly/31lKCYA)
-- [Improving Application Availability with Pod Readiness Gates](https://bit.ly/30uviIM)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
