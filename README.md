@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye, Google Analytics - Why and How You Should Leave The Platform](https://bit.ly/3JLmSgA)
 - [Python f-strings Are More Powerful Than You Might Think](https://bit.ly/3uETfbi)
 - [Ultimate CI Pipeline for All of Your Python Projects](https://bit.ly/3MI4Iz0)
 - [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
-- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://bit.ly/3oMJ6qR)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
