@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://martinheinz.dev/blog/72)
 - [Goodbye, Google Analytics - Why and How You Should Leave The Platform](https://bit.ly/3JLmSgA)
 - [Python f-strings Are More Powerful Than You Might Think](https://bit.ly/3uETfbi)
 - [Ultimate CI Pipeline for All of Your Python Projects](https://bit.ly/3MI4Iz0)
-- [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
