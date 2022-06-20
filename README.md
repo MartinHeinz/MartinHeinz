@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Data and System Visualization Tools That Will Boost Your Productivity](https://martinheinz.dev/blog/75)
 - [Stop Messing with Kubernetes Finalizers](https://martinheinz.dev/blog/74)
 - [Automate All the Boring Kubernetes Operations with Python](https://martinheinz.dev/blog/73)
 - [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://martinheinz.dev/blog/72)
-- [Goodbye, Google Analytics - Why and How You Should Leave The Platform](https://bit.ly/3JLmSgA)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
