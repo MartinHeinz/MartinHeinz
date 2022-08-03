@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Recipes and Tricks for Effective Structural Pattern Matching in Python](https://martinheinz.dev/blog/78)
 - [It&#39;s Time to Say Goodbye to These Python Libraries](https://martinheinz.dev/blog/77)
 - [Advanced Features of Kubernetes&#39; Horizontal Pod Autoscaler](https://martinheinz.dev/blog/76)
 - [Data and System Visualization Tools That Will Boost Your Productivity](https://martinheinz.dev/blog/75)
-- [Stop Messing with Kubernetes Finalizers](https://martinheinz.dev/blog/74)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
