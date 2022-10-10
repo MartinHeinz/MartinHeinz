@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [All The Ways To Introspect Python Objects at Runtime](https://martinheinz.dev/blog/82)
 - [What is Python&#39;s &quot;self&quot; Argument, Anyway?](https://martinheinz.dev/blog/81)
 - [Python List Comprehensions Are More Powerful Than You Might Think](https://martinheinz.dev/blog/80)
 - [You Should Be Using Python&#39;s Walrus Operator - Here&#39;s Why](https://martinheinz.dev/blog/79)
-- [Recipes and Tricks for Effective Structural Pattern Matching in Python](https://martinheinz.dev/blog/78)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
