@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Google APIs in Python](https://martinheinz.dev/blog/84)
 - [Python CLI Tricks That Don&#39;t Require Any Code Whatsoever](https://martinheinz.dev/blog/83)
 - [All The Ways To Introspect Python Objects at Runtime](https://martinheinz.dev/blog/82)
 - [What is Python&#39;s &quot;self&quot; Argument, Anyway?](https://martinheinz.dev/blog/81)
-- [Python List Comprehensions Are More Powerful Than You Might Think](https://martinheinz.dev/blog/80)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
