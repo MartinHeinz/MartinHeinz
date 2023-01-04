@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Lazy Evaluation Using Recursive Python Generators](https://martinheinz.dev/blog/88)
 - [Python Magic Methods You Haven&#39;t Heard About](https://martinheinz.dev/blog/87)
 - [Getting Started with Mastodon API in Python](https://martinheinz.dev/blog/86)
 - [Backup-and-Restore of Containers with Kubernetes Checkpointing API](https://martinheinz.dev/blog/85)
-- [Getting Started with Google APIs in Python](https://martinheinz.dev/blog/84)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
