@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Dictionary Dispatch Pattern in Python](https://martinheinz.dev/blog/90)
 - [Boost Your Python Application Performance using Continuous Profiling](https://martinheinz.dev/blog/89)
 - [Lazy Evaluation Using Recursive Python Generators](https://martinheinz.dev/blog/88)
 - [Python Magic Methods You Haven&#39;t Heard About](https://martinheinz.dev/blog/87)
-- [Getting Started with Mastodon API in Python](https://martinheinz.dev/blog/86)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
