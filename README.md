@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Will Never Use Alpine Linux Ever Again](https://martinheinz.dev/blog/92)
 - [Cgroups - Deep Dive into Resource Management in Kubernetes](https://martinheinz.dev/blog/91)
 - [Dictionary Dispatch Pattern in Python](https://martinheinz.dev/blog/90)
 - [Boost Your Python Application Performance using Continuous Profiling](https://martinheinz.dev/blog/89)
-- [Lazy Evaluation Using Recursive Python Generators](https://martinheinz.dev/blog/88)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
