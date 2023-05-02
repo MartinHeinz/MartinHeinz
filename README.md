@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python&#39;s Missing Batteries: Essential Libraries You&#39;re Missing Out On](https://martinheinz.dev/blog/96)
 - [Kubernetes-Native Synthetic Monitoring with Kuberhealthy](https://martinheinz.dev/blog/95)
 - [Make Your CLI Demos a Breeze with Zero Stress and Zero Mistakes](https://martinheinz.dev/blog/94)
 - [Reduce - The Power of a Single Python Function](https://martinheinz.dev/blog/93)
-- [Why I Will Never Use Alpine Linux Ever Again](https://martinheinz.dev/blog/92)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
