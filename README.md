@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons Learned From Writing 100 Articles](https://martinheinz.dev/blog/102)
 - [Debugging Crashes and Deadlocks in Python using PyStack](https://martinheinz.dev/blog/101)
 - [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://martinheinz.dev/blog/100)
 - [Remote Interactive Debugging of Python Applications Running in Kubernetes](https://martinheinz.dev/blog/99)
-- [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
