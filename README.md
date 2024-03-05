@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109)
 - [Everything You Can Do with Python&#39;s textwrap Module](https://martinheinz.dev/blog/108)
 - [Monitoring Indoor Air Quality with Prometheus, Grafana and a CO2 Sensor](https://martinheinz.dev/blog/107)
 - [Everything You Can Do with Python&#39;s bisect Module](https://martinheinz.dev/blog/106)
-- [You Don&#39;t Need a Dedicated Cache Service - PostgreSQL as a Cache](https://martinheinz.dev/blog/105)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
