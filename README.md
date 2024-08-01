@@ -28,10 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
 - [A Guide to Python&#39;s Weak References Using weakref Module](https://martinheinz.dev/blog/112)
 - [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
 - [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
-- [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
